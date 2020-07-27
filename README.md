@@ -1,1 +1,1 @@
-# sample
+# Progateで作成したsample
